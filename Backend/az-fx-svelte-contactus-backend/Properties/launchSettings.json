@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "ContactFunction": {
+    "az_fx_svelte_contactus_backend": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7209",
+      "commandLineArgs": "--port 7173",
       "launchBrowser": false
     }
   }

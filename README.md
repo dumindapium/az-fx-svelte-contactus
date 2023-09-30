@@ -1,2 +1,2 @@
 # az-fx-svelte-contactus
-Demonstration for Azure Function, Cosmos DB backed contactus application with Svelte UI
+Demonstration of Azure Function, Cosmos DB backed contactus application with Svelte UI

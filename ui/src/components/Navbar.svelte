@@ -26,9 +26,8 @@
     <!-- Mobile menu, show/hide based on menu state. -->
     <div class="sm:hidden" id="mobile-menu">
       <div class="space-y-1 px-2 pb-3 pt-2">
-        <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-        <a href="#" class="bg-gray-900 text-white block rounded-md px-3 py-2 text-base font-medium" aria-current="page">Dashboard</a>
-        <a href="#" class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium">Contact</a>
+        <Link to="/" class="bg-gray-500 text-white rounded-md px-3 py-2 text-sm font-medium" aria-current="page" >Home</Link>          
+        <Link to="contact" class="text-gray-500 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Contact</Link>
         
       </div>
     </div>
